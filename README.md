@@ -43,17 +43,44 @@ The goal of FitFolio was to build a clean, practical interface for tracking work
 
 ---
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v14+ recommended)
 - npm or yarn
 - Backend server running locally or deployed
 
-### Installation
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jae-kae/fitfolio-frontend.git
-   ```
+## Project Purpose
+
+- This project was built to:
+
+- Practice building a React frontend from scratch
+
+- Learn how to connect a frontend to a custom backend API
+
+- Work with MongoDB data through a Node/Express server
+
+- Understand the data flow in a MERN application
+
+---
+
+## Future Improvements
+
+- Improved error handling and loading states
+
+- UI and accessibility enhancements
+
+- Frontend testing
+
+- Deployment configuration
+
+## Author
+
+Janette King
+
+---
+
+## Related Repository
+
+- FitFolio Backend "https://github.com/Jae-Kae/fitfolio-backend"
